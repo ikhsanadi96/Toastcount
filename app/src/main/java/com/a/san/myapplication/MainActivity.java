@@ -21,6 +21,8 @@ public	class	MainActivity	extends	AppCompatActivity	{
 
     }
 
+    //iki lagi nyoba2 mainan github
+    //mantab
     public	void	countUp(View	view)	{
         mCount++;
         if	(mShowCount	!=	null)
